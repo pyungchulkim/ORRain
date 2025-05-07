@@ -33,8 +33,8 @@ var ratio = window.devicePixelRatio || 1;
 
 // Control parameters for rain drops
 var dropsMean = 3.0;
-var radiusMean = 0.008;
-var strengthMean = 0.0001;
+var radiusMean = 0.01;
+var strengthMean = 0.001;
 
 window.onload = function() {
   
