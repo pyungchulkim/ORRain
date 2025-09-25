@@ -4,7 +4,7 @@
  * modified for my purpose.
  *
  * Pyungchul Kim, 2025
- * http://orderedrandom.com
+ * https://orderedrandom.com
  *
  * Copyright statement from the original code:
  *
