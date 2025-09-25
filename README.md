@@ -22,4 +22,4 @@ There are several parameters in main.js to adjust the simulation such as frequen
 
 Pyungchul Kim, 2025
 
-http://orderedrandom.com
+https://orderedrandom.com
